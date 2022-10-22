@@ -15,8 +15,5 @@ closeMenu.addEventListener('click',()=>{
   closeMenu.classList.remove('active');
   hamburgerMenu.classList.remove('invisible');
 });
-viewMore.addEventListener('click',()=>{
-  viewMore.classList.add('invisible');
-   viewMore2.classList.add('active');
-});
+
 
